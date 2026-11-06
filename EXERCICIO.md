@@ -6,6 +6,7 @@
 ## 🎯 Objetivo Pedagógico
 Capacitar o aluno a ler um cenário do mundo real, desenhar um **Diagrama de Classes UML** com as setas corretas e, em seguida, codificar o sistema em Java com fidelidade ao modelo.
 
+Material consulta: [https://www.alura.com.br/conteudo/ciclo-vida-aplicacoes-modelando-desenvolvendo-implantando-software?srsltid=AYCX9vJL2gq-Z-NFdkVm8hgI-pyhRB58YYzUQcGARUDT4QjCappMe2-g]
 ---
 
 ## 🚀 Desafio Prático: Sistema de Estacionamento Rotativo
